@@ -19,6 +19,7 @@ To start the development server, run `npm run dev`. This will start the server o
 
 To build the app for production, run `npm build` and then `npm start`. This will start the production server on `http://localhost:3000`.
 
+ScreenShot
+-----------
 
-
-
+<img width="614" alt="connect-four-game" src="https://github.com/Hassan01-dev/connect-four/assets/57981383/f9c5496a-010d-4192-91d1-9a46c6a4c4c2">
